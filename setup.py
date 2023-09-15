@@ -4,7 +4,7 @@ setup(
     name='clean_folder',
     version='0.0.1',
     description='clean folder from trash',
-    url='http://github.com/dummy_user/useful',
+    url='https://github.com/Alena-Mishchenko/clean_folder',
     author='Alena Mishchenko',
     author_email='a_mertel@ukr.net',
     license='MIT',
